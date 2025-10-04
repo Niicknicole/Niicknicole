@@ -35,4 +35,6 @@
 - ✉️ Email: **nicoledeoliveiramatos@gmail.com**  
 - 🌐 LinkedIn: [www.linkedin.com/in/nicole-de-oliveira-matos-738a97223)   
 
-![Animação da Cobrinha](https://raw.githubusercontent.com/Niicknicole/output/snake.svg)
+---
+
+![Animação da Cobrinha](https://raw.githubusercontent.com/Niicknicole/Niicknicole/output/snake.svg)
