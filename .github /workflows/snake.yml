@@ -1,6 +1,6 @@
 name: Snake animation
 
-# Executa sempre que houver push no main ou manualmente
+# Executa no push para o branch main ou manualmente
 on:
   push:
     branches:
@@ -18,5 +18,4 @@ jobs:
         uses: GitHubDaily/gh-readme-snake-action@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          color: 'green'   # cor da cobrinha, você pode mudar
-
+          color: 'blue'   # você pode mudar a cor da cobrinha
