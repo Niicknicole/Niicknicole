@@ -36,4 +36,5 @@
 - 🌐 LinkedIn: [www.linkedin.com/in/nicole-de-oliveira-matos-738a97223)   
 
  
+![Snake animation](https://github.com/Niicknicole/Niicknicole/blob/output/github-contribution-grid-snake.svg)
 
