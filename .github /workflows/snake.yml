@@ -1,0 +1,22 @@
+name: Snake animation
+
+# Executa sempre que houver push no main ou manualmente
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Run GitHub Readme Snake
+        uses: GitHubDaily/gh-readme-snake-action@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          color: 'green'   # cor da cobrinha, você pode mudar
+
