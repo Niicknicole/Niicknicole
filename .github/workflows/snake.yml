@@ -27,7 +27,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           # Usa o nome de usuário do repositório
-          github_user_name: ${{ Niicknicole }}
+          github_user_name: Niicknicole
           # Gera o SVG em dist/snake.svg, usando o tema escuro do GitHub
           outputs: dist/snake.svg?palette=github-dark
 
