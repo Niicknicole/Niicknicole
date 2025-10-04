@@ -35,6 +35,6 @@
 - ✉️ Email: **nicoledeoliveiramatos@gmail.com**  
 - 🌐 LinkedIn: [www.linkedin.com/in/nicole-de-oliveira-matos-738a97223)   
 
- ![Snake animation](https://github.com/Niicknicole/NOME_DO_REPOSITORIO/workflows/Snake%20animation/badge.svg)
+ ![Snake animation](https://github.com/Niicknicole/Niicknicole/workflows/Snake%20animation/badge.svg)
 
 
