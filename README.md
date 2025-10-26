@@ -1,7 +1,6 @@
 # Olá, eu sou a Nicole Oliveira!  
 
 🎓 Estudante de Ciência da Computação (4º semestre)  
-- Atualmente desenvolvendo um jogo 2D estilo pixel art totalmente em **Java**
   
 ---
 
