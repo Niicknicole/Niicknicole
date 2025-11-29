@@ -14,7 +14,7 @@
 <div>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Niicknicole&show_icons=true&theme=dracula"
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niicknicole&show_icons=true&theme=dracula)
       media="(prefers-color-scheme: dark)"
     />
     <source
