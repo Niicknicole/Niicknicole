@@ -14,18 +14,25 @@
 <div>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Niicknicole&show_icons=true&theme=dracula"
+      srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Niicknicole&show_icons=true&theme=dracula"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Niicknicole&show_icons=true"
+      srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Niicknicole&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niicknicole&show_icons=true" />
+    <img
+      height="180em"
+      src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Niicknicole&show_icons=true"
+    />
   </picture>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niicknicole&layout=donut&theme=dracula" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niicknicole&layout=donut&theme=dracula"
+  />
 </div>
+
 
 ---
 
