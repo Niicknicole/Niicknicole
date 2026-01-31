@@ -1,6 +1,6 @@
 # Olá, eu sou a Nicole Oliveira!  
 
-🎓 Estudante de Ciência da Computação (4º semestre)  
+🎓 Estudante de Ciência da Computação (5º semestre)  
   
 ---
 
