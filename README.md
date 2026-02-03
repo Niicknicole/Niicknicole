@@ -7,8 +7,8 @@
 ## Tecnologias & Ferramentas  
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:**  Java, Python  
-- **Outros:** C#, MySQL   
+- **Backend:**  Java, Python, C#
+- **Outros:**  MySQL
 
 ---
 
