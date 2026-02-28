@@ -8,7 +8,7 @@
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:**  Java, Python, C#
-- **Outros:**  MySQL
+- **Banco**  MySQL
 
 ---
 
