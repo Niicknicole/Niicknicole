@@ -23,7 +23,7 @@
 ## Contato
 
 - ✉️ Email: **nicoledeoliveiramatos@gmail.com**  
-- 🌐 LinkedIn: [www.linkedin.com/in/nicole-de-oliveira-matos-738a97223)   
+- 🌐 LinkedIn: [www.linkedin.com/in/nicoledeoliveiramatos-738a97223)   
 
 ---
 
