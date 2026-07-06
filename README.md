@@ -18,7 +18,7 @@
   
   <img src="https://github-stats-extended.vercel.app/api?username=Niicknicole&show_icons=true&theme=tokyonight&count_private=true" alt="Nicole's GitHub Stats" height="166px" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niicknicole&theme=tokyonight&layout=compact" alt="Top Languages" height="165px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Niicknicole&theme=tokyonight&layout=compact" alt="Top Languages" height="165px" />
 </p>
 
 ---
