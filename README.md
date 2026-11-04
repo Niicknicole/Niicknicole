@@ -1,6 +1,6 @@
 # Hi, i'm Nicole! 👾
 
- **Computer Science Student (6th Sem) | Full Stack Dev | Neural Networks & AI enthusiast**
+ **Computer Science Student (6th Sem) | Neural Networks & AI enthusiast**
 >I'm passionate about computer science, with a strong focus on backend development. Currently, I'm expanding my knowledge in Machine Learning.
   
 ---
